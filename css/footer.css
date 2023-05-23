@@ -1,0 +1,11 @@
+ footer {
+    width: 100%;
+    background-color:  rgb(50, 205, 140);
+    padding: 10px;
+    text-align: center;
+  }
+  footer span {
+    color: white;
+    font-size: 0.9em;
+    font-weight: 500;
+  }
